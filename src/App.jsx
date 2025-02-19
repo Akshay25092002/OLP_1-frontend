@@ -9,7 +9,7 @@ import ProtectedRoute from "./components/ProtectedRoute";
 import Footer from "./components/Footer/Footer";
 import Account from "./pages/account/Account";
 import { AuthContext } from "./context/AuthContext";
-//import Loading from "./components/loading/Loading";
+import Loading from "./components/loading/Loading";
 import Courses from "./pages/courses/Courses";
 import CourseDescription from "./pages/coursedescription/CourseDescription";
 import Dashboard from "./pages/dashboard/Dashboard";
