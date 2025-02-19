@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useNavigate, useParams } from "react-router-dom";
 import axios from "axios";
 import { server } from "../../main";
-import Loading from "../../components/loading/loading";
+import Loading from "../../components/loading/Loading";
 import "./lecture.css";
 import toast from "react-hot-toast";
 
