@@ -5,7 +5,7 @@ import App from "./App.jsx";
 import AuthProvider from "./context/AuthContext.jsX";
 import { CourseContextProvider } from "./context/CourseContext.jsx";
 
-export const server = "http://localhost:5000";
+export const server = "https://olp-1-server.onrender.com";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
